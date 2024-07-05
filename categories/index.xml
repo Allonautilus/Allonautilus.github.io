@@ -30,6 +30,22 @@
         <guid>https://blog.nautile.one/categories/themes/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Daily | 日常</title>
+        <link>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nautile.one/categories/daily--%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Travel | 游记</title>
+        <link>https://blog.nautile.one/categories/travel--%E6%B8%B8%E8%AE%B0/</link>
+        <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nautile.one/categories/travel--%E6%B8%B8%E8%AE%B0/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
