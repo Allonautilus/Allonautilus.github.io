@@ -80,7 +80,7 @@
         &lt;div class=&#34;station-name&#34;&gt;绍兴北&lt;br&gt;&lt;span class=&#34;english&#34;&gt;&lt;/span&gt;&lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&#34;route&#34;&gt;
-        &lt;div class=&#34;train-number&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;train-number&#34;&gt;D3108&lt;/div&gt;
         &lt;div class=&#34;arrow&#34;&gt;
           &lt;div class=&#34;arrow-line&#34;&gt;&lt;/div&gt;
           &lt;div class=&#34;arrow-point&#34;&gt;&lt;/div&gt;
@@ -91,8 +91,8 @@
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;times&#34;&gt;
-      &lt;div class=&#34;departure-time&#34;&gt;21:11 开&lt;/div&gt;
-      &lt;div class=&#34;arrival-time&#34;&gt;22:34 到&lt;/div&gt;
+      &lt;div class=&#34;departure-time&#34;&gt;2021年10月16日 21:11 开&lt;/div&gt;
+      &lt;div class=&#34;arrival-time&#34;&gt;2021年10月16日 22:34 到&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;ticket-info&#34;&gt;
