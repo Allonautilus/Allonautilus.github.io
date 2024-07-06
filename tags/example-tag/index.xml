@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Tag on Nautili Blog</title>
-        <link>https://blog.nautile.one/tags/example-tag/</link>
+        <link>http://localhost:1313/tags/example-tag/</link>
         <description>Recent content in Example Tag on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
-        <link>https://blog.nautile.one/post/hello-world/</link>
+        <link>http://localhost:1313/post/hello-world/</link>
         <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.nautile.one/post/hello-world/</guid>
-        <description>&lt;img src="https://blog.nautile.one/post/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;I am building my first blog! This looks fascinating &amp;gt;w&amp;lt;&lt;/p&gt;
+        <guid>http://localhost:1313/post/hello-world/</guid>
+        <description>&lt;img src="http://localhost:1313/post/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;I am building my first blog! This looks fascinating &amp;gt;w&amp;lt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

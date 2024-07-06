@@ -6,15 +6,7 @@
         <description>Recent content in Categories on Nautili Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
-        <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Example Category</title>
-        <link>https://blog.nautile.one/categories/example-category/</link>
-        <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.nautile.one/categories/example-category/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.nautile.one/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Syntax</title>
         <link>https://blog.nautile.one/categories/syntax/</link>
         <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
@@ -44,6 +36,14 @@
         <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
         
         <guid>https://blog.nautile.one/categories/travel--%E6%B8%B8%E8%AE%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Category</title>
+        <link>https://blog.nautile.one/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.nautile.one/categories/example-category/</guid>
         <description></description>
         </item>
         
